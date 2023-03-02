@@ -1,0 +1,9 @@
+<!--pages/classify/sale/sale.wxml-->
+<view class='job-tip'>温馨提示：平台兼职信息为本校学生所发，信息真实性请与发布者核实后报名，凡收取费用的兼职请谨慎报名，以防被骗</view>
+
+<view wx:for="{{countDownList}}" wx:key="countDownList" class="time">
+    <text>{{item.day}}</text>天
+    <text>{{item.hou}}</text>时
+    <text>{{item.min}}</text>分
+    <text>{{item.sec}}</text>秒
+  </view>

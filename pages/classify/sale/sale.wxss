@@ -1,0 +1,12 @@
+/* pages/classify/sale/sale.wxss */
+
+.job-tip{
+    padding: 10rpx 20rpx;
+    color: red;
+    font-size: 28rpx;
+    background-color: #e6e6e6;
+  }
+
+  .time{
+      background-color: red;
+  }

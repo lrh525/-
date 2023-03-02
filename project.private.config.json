@@ -1,0 +1,7 @@
+{
+    "description": "二手淘淘",
+    "projectname": "secondHand",
+    "setting": {
+        "compileHotReLoad": true
+    }
+}
